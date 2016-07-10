@@ -1,0 +1,9 @@
+//Joseph Jin
+//CS 81
+//Unit 6
+//Chapter 5
+//Problem #14
+
+14. Search for and read a couple articles on refactoring. Explain the concept in your own words.
+
+Refactoring is restructuring the codes without changing the outcome by grouping them accordingly by their functionalities. Since it is neatly organized, it is much easier to read. It is also much easier to modify since codes are grouped by their functionalities thus you only change what is necessary rather than entire codes that could result in much bigger error.
